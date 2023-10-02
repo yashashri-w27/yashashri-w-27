@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yashashri-waingankar-85176b238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashashri waingankar" height="30" width="40" /></a>
-<a href="https://instagram.com/yashashri______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashashri______" height="30" width="40" /></a>
+<a href="https://mail.google.com/chat/u/0/#onboarding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashashri______" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCTiMdQlktTZyhJ3wrKA-dTA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beu" height="30" width="40" /></a>
 <a href="https://www.skype.com/en/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="skype" height="30" width="40" /></a>
 </p>
